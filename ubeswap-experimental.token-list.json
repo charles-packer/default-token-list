@@ -246,7 +246,7 @@
             "symbol": "PZ1",
             "chainId": 44787,
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_cEUR.png"
+            "logoURI": "https://raw.githubusercontent.com/charles-packer/default-token-list/master/assets/asset_pz1.png"
         },
         {
             "address": "0x8eB94A6a9DEca61179A9599Fdff07b14D96B780D",
@@ -254,7 +254,7 @@
             "symbol": "BR1JD",
             "chainId": 44787,
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_cEUR.png"
+            "logoURI": "https://raw.githubusercontent.com/charles-packer/default-token-list/master/assets/asset_BR1JD.png"
         }
     ],
     "version": {
