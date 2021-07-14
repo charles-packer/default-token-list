@@ -1,6 +1,6 @@
 {
   "name": "@caurisfinance/default-token-list",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Bondswap default token list",
   "main": "ubeswap.token-list.json",
   "repository": "git@github.com:charles-packer/default-token-list.git",

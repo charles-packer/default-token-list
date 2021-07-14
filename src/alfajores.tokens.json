@@ -25,11 +25,6 @@
     "symbol": "mcUSD"
   },
   {
-    "address": "0x837d4F0b5d42293A980b82E7Ae3cd7104a4bdCfc",
-    "name": "Test Token",
-    "symbol": "TEST"
-  },
-  {
     "address": "0x86f61EB83e10e914fc6F321F5dD3c2dD4860a003",
     "name": "Moola CELO",
     "symbol": "mCELO"
