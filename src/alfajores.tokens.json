@@ -1,62 +1,62 @@
 [
-    {
-        "address": "0x00400FcbF0816bebB94654259de7273f4A05c762",
-        "name": "Poof Governance Token",
-        "symbol": "POOF"
-    },
-    {
-        "address": "0x10c892A6EC43a53E45D0B916B4b7D383B1b78C0F",
-        "name": "Celo Euro",
-        "symbol": "cEUR"
-    },
-    {
-        "address": "0x32974C7335e649932b5766c5aE15595aFC269160",
-        "name": "Moola cEUR",
-        "symbol": "mcEUR"
-    },
-    {
-        "address": "0x71DB38719f9113A36e14F409bAD4F07B58b4730b",
-        "name": "Moola cUSD",
-        "symbol": "mcUSD"
-    },
-    {
-        "address": "0x86f61EB83e10e914fc6F321F5dD3c2dD4860a003",
-        "name": "Moola CELO",
-        "symbol": "mCELO"
-    },
-    {
-        "address": "0x874069Fa1Eb16D44d622F2e0Ca25eeA172369bC1",
-        "name": "Celo Dollar",
-        "symbol": "cUSD"
-    },
-    {
-        "address": "0xb9B532e99DfEeb0ffB4D3EDB499f09375CF9Bf07",
-        "name": "Savings CELO",
-        "symbol": "sCELO"
-    },
-    {
-        "address": "0xBDeedCDA79BAbc4Eb509aB689895a3054461691e",
-        "name": "Rewards CELO",
-        "symbol": "rCELO"
-    },
-    {
-        "address": "0xF194afDf50B03e69Bd7D057c1Aa9e10c9954E4C9",
-        "name": "Celo",
-        "symbol": "CELO"
-    },
-    {
-        "address": "0x837d4F0b5d42293A980b82E7Ae3cd7104a4bdCfc",
-        "name": "Test Token",
-        "symbol": "TEST"
-    },
-    {
-        "address": "0x2CcFFA5336Cf4E3409c28d2E7Ec3D4df5C1b308D",
-        "name": "PRIVATE BONDS PEZESHA",
-        "symbol": "PZ1"
-    },
-    {
-        "address": "0xbD133C18623F830a87Ac18455338363e7d4A96fA",
-        "name": "BRANCH Junior DEBT",
-        "symbol": "BR1JD"
-    }
+  {
+    "address": "0x00400FcbF0816bebB94654259de7273f4A05c762",
+    "name": "Poof Governance Token",
+    "symbol": "POOF"
+  },
+  {
+    "address": "0x10c892A6EC43a53E45D0B916B4b7D383B1b78C0F",
+    "name": "Celo Euro",
+    "symbol": "cEUR"
+  },
+  {
+    "address": "0x2CcFFA5336Cf4E3409c28d2E7Ec3D4df5C1b308D",
+    "name": "PRIVATE BONDS PEZESHA",
+    "symbol": "PZ1"
+  },
+  {
+    "address": "0x32974C7335e649932b5766c5aE15595aFC269160",
+    "name": "Moola cEUR",
+    "symbol": "mcEUR"
+  },
+  {
+    "address": "0x71DB38719f9113A36e14F409bAD4F07B58b4730b",
+    "name": "Moola cUSD",
+    "symbol": "mcUSD"
+  },
+  {
+    "address": "0x837d4F0b5d42293A980b82E7Ae3cd7104a4bdCfc",
+    "name": "Test Token",
+    "symbol": "TEST"
+  },
+  {
+    "address": "0x86f61EB83e10e914fc6F321F5dD3c2dD4860a003",
+    "name": "Moola CELO",
+    "symbol": "mCELO"
+  },
+  {
+    "address": "0x874069Fa1Eb16D44d622F2e0Ca25eeA172369bC1",
+    "name": "Celo Dollar",
+    "symbol": "cUSD"
+  },
+  {
+    "address": "0xb9B532e99DfEeb0ffB4D3EDB499f09375CF9Bf07",
+    "name": "Savings CELO",
+    "symbol": "sCELO"
+  },
+  {
+    "address": "0xbD133C18623F830a87Ac18455338363e7d4A96fA",
+    "name": "BRANCH Junior DEBT",
+    "symbol": "BR1JD"
+  },
+  {
+    "address": "0xBDeedCDA79BAbc4Eb509aB689895a3054461691e",
+    "name": "Rewards CELO",
+    "symbol": "rCELO"
+  },
+  {
+    "address": "0xF194afDf50B03e69Bd7D057c1Aa9e10c9954E4C9",
+    "name": "Celo",
+    "symbol": "CELO"
+  }
 ]
