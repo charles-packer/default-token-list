@@ -115,7 +115,7 @@
         {
             "address": "0x4Cb3C7E0a61650F23C532016F6ceCb9B9CaeaEf5",
             "name": "Test Token",
-            "symbol": "OLAP",
+            "symbol": "OALP",
             "chainId": 44787,
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_cEUR.png"
