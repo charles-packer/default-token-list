@@ -239,6 +239,22 @@
             "chainId": 44787,
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_cEUR.png"
+        },
+        {
+            "address": "0xab7a24aCB650b96F0577Fb6f64C4d0DFE8f94c09",
+            "name": "PRIVATE BONDS PEZESHA",
+            "symbol": "PZ1",
+            "chainId": 44787,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_cEUR.png"
+        },
+        {
+            "address": "0x8eB94A6a9DEca61179A9599Fdff07b14D96B780D",
+            "name": "BRANCH Junior DEBT",
+            "symbol": "BR1JD",
+            "chainId": 44787,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_cEUR.png"
         }
     ],
     "version": {

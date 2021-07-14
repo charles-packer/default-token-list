@@ -48,5 +48,15 @@
         "address": "0x837d4F0b5d42293A980b82E7Ae3cd7104a4bdCfc",
         "name": "Test Token",
         "symbol": "TEST"
+    },
+    {
+        "address": "0xab7a24aCB650b96F0577Fb6f64C4d0DFE8f94c09",
+        "name": "PRIVATE BONDS PEZESHA",
+        "symbol": "PZ1"
+    },
+    {
+        "address": "0x8eB94A6a9DEca61179A9599Fdff07b14D96B780D",
+        "name": "BRANCH Junior DEBT",
+        "symbol": "BR1JD"
     }
 ]
