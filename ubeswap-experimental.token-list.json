@@ -45,14 +45,6 @@
       "logoURI": "https://raw.githubusercontent.com/charles-packer/default-token-list/master/assets/asset_mcUSD.png"
     },
     {
-      "address": "0x837d4F0b5d42293A980b82E7Ae3cd7104a4bdCfc",
-      "name": "Test Token",
-      "symbol": "TEST",
-      "chainId": 44787,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/charles-packer/default-token-list/master/assets/asset_TEST.png"
-    },
-    {
       "address": "0x86f61EB83e10e914fc6F321F5dD3c2dD4860a003",
       "name": "Moola CELO",
       "symbol": "mCELO",
@@ -227,14 +219,6 @@
       "chainId": 42220,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/charles-packer/default-token-list/master/assets/asset_cXOF.png"
-    },
-    {
-      "address": "0x837d4F0b5d42293A980b82E7Ae3cd7104a4bdCfc",
-      "name": "Test Token",
-      "symbol": "TEST",
-      "chainId": 42220,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/charles-packer/default-token-list/master/assets/asset_TEST.png"
     },
     {
       "address": "0xa8d0E6799FF3Fd19c6459bf02689aE09c4d78Ba7",
