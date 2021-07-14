@@ -113,9 +113,9 @@
             "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_cEUR.png"
         },
         {
-            "address": "0x4Cb3C7E0a61650F23C532016F6ceCb9B9CaeaEf5",
+            "address": "0x837d4F0b5d42293A980b82E7Ae3cd7104a4bdCfc",
             "name": "Test Token",
-            "symbol": "OALP",
+            "symbol": "TEST",
             "chainId": 44787,
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_cEUR.png"
