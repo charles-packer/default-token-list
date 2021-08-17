@@ -27,6 +27,14 @@
       "chainId": 42220,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/charles-packer/default-token-list/master/assets/asset_CELO.png"
+    },
+    {
+      "address": "0xbb12DeB3627243287D54adFa73BAcaCad53E91f0",
+      "name": "Wrapped Branch Senior Deb",
+      "symbol": "cBSD",
+      "chainId": 44787,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/charles-packer/default-token-list/master/assets/asset_BR1JD.png"
     }
   ],
   "version": {
